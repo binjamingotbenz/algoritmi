@@ -5,7 +5,7 @@ public class binarni {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int n = 10;
+        int n = O.nextInt;
         int[] array = new int[n];
 
         System.out.println("Введите элементы массива:");
